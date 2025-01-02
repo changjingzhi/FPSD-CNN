@@ -1,0 +1,8 @@
+sub-066_task-eyesclosed_eeg.set
+sub-067_task-eyesclosed_eeg.set
+sub-068_task-eyesclosed_eeg.set
+sub-073_task-eyesclosed_eeg.set
+sub-079_task-eyesclosed_eeg.set
+sub-081_task-eyesclosed_eeg.set
+sub-084_task-eyesclosed_eeg.set
+sub-085_task-eyesclosed_eeg.set
