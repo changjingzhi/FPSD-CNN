@@ -36,6 +36,7 @@ FPSD-CNN-main/
 │   │   ├── train_CN_file_list.txt
 │   │   └── train_FTD_file_list.txt
 │   ├── README.md
+│   ├── README_zh.md
 │   ├── data_split-AD_CN.py
 │   └── data_split-CN_FDT.py
 ├── 1-data_processing/         # 数据处理脚本
@@ -45,6 +46,13 @@ FPSD-CNN-main/
 ├── 2-model/                   # 模型实现
 │   ├── fpsd-cnn.py           # 主FPSD-CNN模型
 │   └── fpsd-cnn-test.py      # 模型测试
+├── Figure/                    # 图表和可视化脚本
+│   ├── RBP.py
+│   ├── confusion_matrix.jpg
+│   ├── show_RBP_2.py
+│   └── show_fellent_RBP_2.py
+├── model/                     # 预训练模型
+│   └── AD-CN.pth
 └── ablation_study_code/       # 消融实验代码
     ├── 2D-CNN.py
     ├── 2D-CNN_No_AF.py
